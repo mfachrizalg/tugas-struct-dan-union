@@ -1,0 +1,11 @@
+Ketentuan:
+
+1. Exercise no 6, valid or invalid (why).
+2. Programming exercise no 2, student test score. Jelaskan cara kerja kode program yang dibuat. Agar dilengkapi dengan screenshot hasil ketika program dijalankan.
+
+Format Pengumpulan:
+
+1. Tugas point 1 & 2 dikumpulkan dalam bentuk laporan.
+2. Laporan dikumpulkan dalam pdf.
+3. Sertakan lampiran dalam laporan berisi source code program (link github).
+4. Format penamaan yaitu NIU_W10.pdf
